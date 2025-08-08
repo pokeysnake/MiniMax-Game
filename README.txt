@@ -1,7 +1,3 @@
-PROJECT 3
-NICHOLAS PEREZ
-CS4200
-
 
 HOW TO PLAY:
 - The game is played on an 8x8 board (A1-H8)
@@ -36,5 +32,6 @@ ERROR HANDLING:
 - Invalid format: "Invalid format. Use format like A1 (row A-H, column 1-8)."
 - Out of bounds: "Invalid row. Row must be A-H." or "Invalid column. Column must be 1-8."
 - Occupied position: "Position A1 is already occupied. Try again."
+
 
 The computer uses MINIMAX algorithm with alpha-beta pruning to find optimal moves within the time limit. 
